@@ -1,0 +1,15 @@
+p {
+    color: black;
+}
+.image-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-image: url(https://bogatyr.club/uploads/posts/2023-02/2268/thumbs/1675328317_bogatyr-club-p-neitralnii-fon-dlya-saita-foni-3.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
